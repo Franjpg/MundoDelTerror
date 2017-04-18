@@ -1,0 +1,134 @@
+
+/*Generales*/
+
+body {
+	background-color: #000000;
+	font-family: 'Droid Serif', serif;
+}
+
+div.botones a:link {   
+ text-decoration:none;
+ color: #fff;
+}
+
+div.botones a:visited {   
+ text-decoration:none;
+ color: #fff;   
+}
+
+div.criticas a:link {   
+ text-decoration:none;
+ color: black;
+}
+
+div.criticas a:visited {   
+ text-decoration:none;
+ color: #fe0002;   
+}
+
+/*Secciones*/
+
+.header {
+	background-color: #000000;
+	height: 150px;
+}
+
+.banner {
+	padding: 0 0px;
+}
+
+.boton {
+	background-color: #000000;
+	color: #fff;
+	display: inline-block;
+	font-size: 16pt;
+	margin-top: 38px;
+	padding: 15px 0px;
+	text-align: center;
+	width: 120px;
+	text-decoration: none;
+}
+	.boton:hover {
+		background-color: #fe0002;
+		transition-duration: 0.8s;
+	}
+
+.post1 {
+	background-color: #fffcfc;
+	height: 480px;
+}
+
+.post2 {
+	background-color: #fffcfc;
+	border-radius: 5px;
+}
+
+.post3 {
+	background-color: #fffcfc;
+	border-radius: 5px;
+	height: 300px;
+}
+
+.post4 {
+	background-color: #fffcfc;
+	border-radius: 5px;
+	height: 332px;
+}
+
+.subform2 {
+	padding: 36px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.subform3 {
+	padding: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.blacktext p {
+	color: black;
+}
+
+
+.pie {
+	color: #fff;
+	margin-top: 250px;
+	height: 100px;
+}
+
+.pietext {
+	padding: 25px;
+}
+
+
+/* efectos */
+
+.osc:hover {
+	opacity: 0.75;
+	transition-duration: 0.7s;
+}
+
+h1 {
+	color: #fff;
+}
+
+div.whitetext h2, p {
+	color: #fff;
+}
+
+
+
+/*margins*/
+
+.marginup60 {
+ margin-top: 60px;
+}
+
+.marginup100 {
+ margin-top: 100px;
+}
+
+.margindown50 {
+ margin-bottom: 50px;
+}
